@@ -10,7 +10,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     mustache (0.99.4)
-    rake (10.1.0)
+    rake (12.3.3)
     redcarpet (1.17.2)
     tilt (1.4.1)
 
